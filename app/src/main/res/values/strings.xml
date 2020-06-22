@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="movie_judul">Movie Title</string>
+    <string name="deskripsi">Description</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Show</string>
+
+    <string-array name="data_judul">
+        <item>Avenger: Invinity War</item>
+        <item>Bumblebee</item>
+        <item>Aquaman</item>
+        <item>Deadpool 2</item>
+        <item>A Star Is Born</item>
+        <item>Jurassic Galaxy</item>
+        <item>Black Panther</item>
+        <item>Robin Hood</item>
+        <item>Spiderman</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_judul2">
+        <item>Justice League</item>
+        <item>Widows</item>
+        <item>Deep Blue Sea 2</item>
+        <item>The Flash</item>
+        <item>Arrow</item>
+        <item>Grey\'s Anatomy</item>
+        <item>Marvel\'s Agents Of S.H.I.E.L.D.</item>
+        <item>Dragon Ball</item>
+        <item>Arctic</item>
+        <item>Gotham</item>
+    </string-array>
+
+    <string-array name="data_rilis">
+        <item>25 April 2018</item>
+        <item>15 December 2018</item>
+        <item>7 December 2018</item>
+        <item>9 February 2018</item>
+        <item>3 October 2018</item>
+        <item>25 November 2018</item>
+        <item>25 November 2018</item>
+        <item>20 November 2018</item>
+        <item>6 Desember 2018</item>
+        <item>5 October 2018</item>
+    </string-array>
+
+    <string-array name="data_rilis2">
+        <item>23 Oktober 2018</item>
+        <item>6 November 2018</item>
+        <item>17 April 2018</item>
+        <item>7 October 2014</item>
+        <item>10 October 2012</item>
+        <item>27 March 2005</item>
+        <item>24 September 2013</item>
+        <item>26 February 1986</item>
+        <item>21 November 2018</item>
+        <item>22 September 2014</item>
+    </string-array>
+
+    <string-array name="data_skor">
+        <item>8.3</item>
+        <item>6.7</item>
+        <item>5.8</item>
+        <item>7.1</item>
+        <item>8.1</item>
+        <item>6.2</item>
+        <item>6.3</item>
+        <item>7.1</item>
+        <item>6.8</item>
+        <item>6.9</item>
+    </string-array>
+
+    <string-array name="data_skor2">
+        <item>6.3</item>
+        <item>7.1</item>
+        <item>8.0</item>
+        <item>6.7</item>
+        <item>5.8</item>
+        <item>6.2</item>
+        <item>6.8</item>
+        <item>7.1</item>
+        <item>8.1</item>
+        <item>6.9</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero
+            to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal
+            is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will
+            on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and
+            existence itself has never been more uncertain.
+        </item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie,
+            on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.
+            When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
+        </item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry
+            King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world.
+            Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.
+        </item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boys life.
+        </item>
+        <item>Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about
+            given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight.
+        </item>
+        <item>In the near future, a ship of space explorers crash land on an unknown planet. Theyre soon met with some of
+            their worst fears as they discover the planet is inhabited by monstrous dinosaurs
+        </item>
+        <item>King T Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda
+            to serve as his countrys new leader. However, TChalla soon finds that he is challenged for the throne
+        </item>
+        <item>A war hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.
+        </item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson Kingpin
+            Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.
+        </item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of
+            Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect
+        </item>
+    </string-array>
+
+    <string-array name="data_deskripsi2">
+        <item>Fuelled by his restored faith in humanity and inspired by Supermans selfless act, Bruce Wayne and Diana Prince
+            assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic
+            threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.
+        </item>
+        <item>A police shootout leaves four thieves dead during an explosive armed robbery attempt in Chicago. Their widows
+            have nothing in common except a debt left behind by their spouses criminal activities. Hoping to forge a future
+            on their own terms, they join forces to pull off a heist.
+        </item>
+        <item>When shark conservationist Dr. Misty Calhoun is invited to consult on a top secret project run by pharmaceutical
+            billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull
+            sharks as its test subjects, which soon break loose and cause havoc.
+        </item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning
+            and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to
+            move through Central City like an unseen guardian angel.
+        </item>
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea.
+            He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with
+            a bow.
+        </item>
+        <item>Follows the personal and professional lives of a group of doctors at Seattle s Grey Sloan Memorial
+            Hospital.
+        </item>
+        <item>Agent Phil Coulson of SHIELD Strategic Homeland Intervention, Enforcement and Logistics Division
+            puts together a team of agents to investigate the new, the strange and the unknown around the globe,
+            protecting the ordinary from the extraordinary.
+        </item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Go ku.
+            Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy
+            was on his own, but easily managed.
+        </item>
+        <item>A man stranded in the Arctic is finally about to receive his long awaited rescue. However, after a
+            tragic accident, his opportunity is lost and he must then decide whether to remain in the relative
+            safety of his camp or embark on a deadly trek through the unknown for potential salvation.
+        </item>
+        <item>
+            Everyone knows the name Commissioner Gordon. He is one of the crime worlds greatest foes, a man whose
+            reputation is synonymous with law and order. But what is known of Gordons story and his rise from rookie
+            detective to Police Commissioner
+        </item>
+    </string-array>
+
+
+
+    <array name="data_foto">
+        <item>https://image.tmdb.org/t/p/w1280/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/uo7u2bRW6KPPe4ipTUqx5RZ9rwC.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/uxzzxijgPIY7slzFvMotPv8wjKA.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</item>
+        <item>https://image.tmdb.org/t/p/w1280/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg</item>
+    </array>
+
+    <array name="data_foto2">
+        <item>https://image.tmdb.org/t/p/original/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg</item>
+        <item>https://image.tmdb.org/t/p/original/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg</item>
+        <item>https://image.tmdb.org/t/p/original/xqjAHXMJLORx9vVsCTJ6ZPJcr3D.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/fki3kBlwJzFp8QohL43g9ReV455.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/eqgIOObafPJitt8JNh1LuO2fvqu.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/nv4nLXbDhcISPP8C1mgaxKU50KO.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wx3EAMtqnbSLhGG8NrqXriCUIQ.jpg</item>
+        <item>https://image.tmdb.org/t/p/original/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg</item>
+        <item>https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</item>
+    </array>
+
+    <string name="change_language_settings">change language settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
